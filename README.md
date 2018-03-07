@@ -14,7 +14,7 @@ The highlighted brackets in the given expression
 Input : ((())(()))
 Output : 1 2 3 3 2 4 5 5 4 1
 
-# 2. [TODO] Find if there is a subarray with 0 sum
+# 2. Find if there is a subarray with 0 sum
 https://www.geeksforgeeks.org/find-if-there-is-a-subarray-with-0-sum/
 
 Given an array of positive and negative numbers, find if there is a subarray (of size at-least one) with 0 sum.

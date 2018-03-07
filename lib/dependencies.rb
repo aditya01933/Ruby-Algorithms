@@ -1,1 +1,1 @@
-require_relative 'algorithm/data_structure/stack'
+require_relative 'data_structure/stack'
