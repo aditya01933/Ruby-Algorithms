@@ -52,3 +52,5 @@ Output: 0 to 3 Or 1 to 4
 
 # 4. Given an array of integers, replace every element with the next greatest element (greatest element on the right side) in the array. Since there is no element next to the last element, replace it with -1. For example, if the array is {16, 17, 4, 3, 5, 2}, then it should be modified to {17, 5, 5, 5, 2, -1}.
 sol: https://www.geeksforgeeks.org/replace-every-element-with-the-greatest-on-right-side/
+
+# 5. Merge Sort in Ruby
