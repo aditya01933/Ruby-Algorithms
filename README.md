@@ -58,3 +58,5 @@ sol: https://www.geeksforgeeks.org/replace-every-element-with-the-greatest-on-ri
 # 6. The problem is to print all the possible paths from top left to bottom right of a mXn matrix with the constraints that from each cell you can either move only to right or down.
 
 # 7. Find a pair with maximum product in array of Integers.
+
+# 8. Write a Program to Find the Maximum Depth or Height of a Tree.
