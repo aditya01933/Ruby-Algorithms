@@ -60,3 +60,7 @@ sol: https://www.geeksforgeeks.org/replace-every-element-with-the-greatest-on-ri
 # 7. Find a pair with maximum product in array of Integers.
 
 # 8. Write a Program to Find the Maximum Depth or Height of a Tree.
+
+# 9. Print node at k distance from root
+
+# 10. DFS of tree.
