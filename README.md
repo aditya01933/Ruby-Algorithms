@@ -64,3 +64,6 @@ sol: https://www.geeksforgeeks.org/replace-every-element-with-the-greatest-on-ri
 # 9. Print node at k distance from root
 
 # 10. DFS of tree.
+
+# 11. Tree Isomorphism Problem
+Write a function to detect if two trees are isomorphic. Two trees are called isomorphic if one of them can be obtained from other by a series of flips, i.e. by swapping left and right children of a number of nodes. Any number of nodes at any level can have their children swapped. Two empty trees are isomorphic.
