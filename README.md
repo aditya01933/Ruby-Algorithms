@@ -69,3 +69,9 @@ sol: https://www.geeksforgeeks.org/replace-every-element-with-the-greatest-on-ri
 Write a function to detect if two trees are isomorphic. Two trees are called isomorphic if one of them can be obtained from other by a series of flips, i.e. by swapping left and right children of a number of nodes. Any number of nodes at any level can have their children swapped. Two empty trees are isomorphic.
 
 # 12. Check for BST
+
+# 13. Check if tree is SumTree
+
+# 14. Check sum of Covered and Uncovered nodes of Binary Tree
+Given a binary tree, you need to check whether sum of all covered elements is equal to sum of all uncovered elements or not.
+In a binary tree, a node is called Uncovered if it appears either on left boundary or right boundary. Rest of the nodes are called covered.
