@@ -75,3 +75,9 @@ Write a function to detect if two trees are isomorphic. Two trees are called iso
 # 14. Check sum of Covered and Uncovered nodes of Binary Tree
 Given a binary tree, you need to check whether sum of all covered elements is equal to sum of all uncovered elements or not.
 In a binary tree, a node is called Uncovered if it appears either on left boundary or right boundary. Rest of the nodes are called covered.
+
+# 15. Check if two nodes are cousins in a Binary Tree
+Given the binary Tree and the two nodes say ‘a’ and ‘b’, determine whether the two nodes are cousins of each other or not.
+
+Two nodes are cousins of each other if they are at same level and have different parents.
+NOTE: All values are unique in tree.
