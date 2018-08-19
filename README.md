@@ -81,3 +81,7 @@ Given the binary Tree and the two nodes say ‘a’ and ‘b’, determine wheth
 
 Two nodes are cousins of each other if they are at same level and have different parents.
 NOTE: All values are unique in tree.
+
+# 16. Given a Binary Tree, check if all leaves are at same level or not.
+
+#17. Check if removing an edge can divide a Binary Tree in two halves.
